@@ -312,11 +312,7 @@
    "type": "Link"
   }
  ],
-<<<<<<< HEAD
- "modified": "2024-09-12 01:18:52.261537",
-=======
  "modified": "2024-09-30 17:39:36.060170",
->>>>>>> ca93818c7605ad3cc09d0e043cf2dee91513203d
  "modified_by": "Administrator",
  "module": "Core",
  "name": "Build",
